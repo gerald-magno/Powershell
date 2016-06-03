@@ -1,6 +1,6 @@
 ﻿#Specify tenant admin and site URL
-$adminUrl = "https://devjam-admin.sharepoint.com/"
-$siteUrl = "https://devjam.sharepoint.com/"
+$adminUrl = "https://<tenant>-admin.sharepoint.com/"
+$siteUrl = "https://<tenant>.sharepoint.com/"
 
 #Use Credential Manager module
 #Install-Module -Name CredentialManager
